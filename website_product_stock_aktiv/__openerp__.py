@@ -18,6 +18,6 @@
     'images': ['static/description/banner.jpg'],
     "installable": True,
     'auto_install': False,
-    'website':False,
-    'licence':False
+    'website': False,
+    'licence': False
 }
