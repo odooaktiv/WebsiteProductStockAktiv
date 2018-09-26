@@ -5,7 +5,8 @@
     'summary': 'Display stock of product on website.',
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
-    'version': '1.0',
+    'version': '9.0.1.0.0',
+    'license': 'AGPL-3',
     'description': """
         This module allows to display stock of product on display.
     """,
