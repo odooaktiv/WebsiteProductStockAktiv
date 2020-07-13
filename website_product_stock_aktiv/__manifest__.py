@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 {
     "name": "Website Product Stock",
-    "category": "Sales",
+    "category": "Website",
     'summary': 'Display stock of product on website.',
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
