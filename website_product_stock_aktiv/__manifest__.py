@@ -6,7 +6,7 @@
     'author': 'Aktiv Software',
     'website': 'www.aktivsoftware.com',
     'license': 'AGPL-3',
-    'version': '10.0.1.0.0',
+    'version': '11.0.1.0.0',
     'description': """
         This module allows to display stock of product on display.
     """,
