@@ -1,4 +1,4 @@
-ODOO(Open ERP) System :- Odoo 12C branch 12.0
+ODOO(Open ERP) System :- Odoo 13C branch 13.0
 
 
 Website Product Stock
